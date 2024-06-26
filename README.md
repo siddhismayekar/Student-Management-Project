@@ -1,6 +1,6 @@
 # Student-Management-Project
 
-This Student Management Project is aimed at providing a seamless and efficient way to manage student information. It is a web-based application that allows administrators to handle student data.
+This Student Management Project is aimed at providing a seamless and efficient way to manage student information. It is a web-based application that allows administrators to handle student data. This project is based on the reference provided by [this YouTube video](https://youtu.be/Suic1YRi3HA?si=GB7_NbqArfWISPxO), with additional functionalities and improvements.
 
 ## Features
 
@@ -15,3 +15,7 @@ This Student Management Project is aimed at providing a seamless and efficient w
 - **Frontend**: Python tkinter
 - **Backend**: Python 
 - **Database**: SQLite3
+
+### Video Example
+
+https://github.com/siddhismayekar/Student-Management-Project/assets/117754791/d61db795-5029-4870-b153-17e141d4f533
