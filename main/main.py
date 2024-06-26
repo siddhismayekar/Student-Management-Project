@@ -1164,10 +1164,6 @@ def student_login_page():
     login_bnt=tk.Button(student_login_fm,text='Login',font=('Bold',15),
                         command=login_acc)
     login_bnt.place(x=300,y=340,width=200,height=40)
-
-    forget_Passwd_btn=tk.Button(student_login_fm,text='⚠\nForget Password',fg=bg_color,
-                                font=('Bold', 15), bd=0)
-    forget_Passwd_btn.place(x=320,y=390)
     
 def admin_dashboard():
     def admin_logout():
